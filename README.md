@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Recurrent Neural Network**
 
-- 🌱 I’m currently learning **Deep Learning, And Js Frameworks**
+- 🌱 I’m currently learning **Deep Learning, And Machine Learning**
 
 - 📝 I regularly write articles on [https://medium.com/@khushi010304](https://medium.com/@khushi010304)
 
